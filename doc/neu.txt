@@ -211,5 +211,7 @@ MySQL Dokumentation:
 
 http://dev.mysql.com/doc/
 phpMyAdmin - PHP-Administration-Oberfläche für MySQL
+------------------------------------------------------------------------------------------------------------
+https://www.a-coding-project.de/ratgeber/mysql/befehle
 
 http://www.phpmyadmin.net
