@@ -1,2 +1,3 @@
 http://volker-janssen.info/BuchDB/Kapitel_10_SQL/10e_SQL_Befehls%C3%BCbersicht.pdf
 https://wiki.selfhtml.org/wiki/Datenbank/Fortgeschrittene_Jointechniken
+https://developers.google.com/docs/api/quickstart/python?hl=de
